@@ -45,7 +45,7 @@ TODO:
 ### Step 1: clone the repo and install the dependencies
 To install ComfyUI-DiffBIR in addition to an existing installation of ComfyUI, you can follow the following steps:
 1. `cd custom_nodes`  
-2. `git clone https://github.com/ComfyUI/ComfyUI-DiffBIR`  
+2. `git clone https://github.com/esmivn/ComfyUI-DiffBIR.git`  
 3. `pip install -r requirements.txt`
 4. Restart ComfyUI
 
